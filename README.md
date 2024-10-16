@@ -29,8 +29,9 @@ To set up and run the **Rush Hour** game on your local machine, follow these ste
    Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/pavanviju/Rush-Hour.git
-   
+
+https://github.com/AdhithyaShivaa/Rush-Hour-Round-Robin-Projec-.git
+
 2. **Navigate to the Project Directory**
 
    Change to the project directory using:
