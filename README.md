@@ -30,7 +30,7 @@ To set up and run the **Rush Hour** game on your local machine, follow these ste
 
    ```bash
 
-https://github.com/AdhithyaShivaa/Rush-Hour-Round-Robin-Projec-.git
+   https://github.com/AdhithyaShivaa/Rush-Hour-Round-Robin-Projec-.git
 
 2. **Navigate to the Project Directory**
 
